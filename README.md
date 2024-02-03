@@ -42,15 +42,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Sclubby/Sclubby/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://imgur.com/a/l2IzBjv"  />
-</div>
-
-###
