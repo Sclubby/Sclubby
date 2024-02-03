@@ -41,6 +41,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
 </div>
 
-![Lil Sam Pic](IMG_1905.jpg)
+<div align="center">
+<h2>  Baby Sammy ⬇️ </h2>
+  
+  <img src="IMG_1905.jpg" width="200">
+</div>
 
 ###
