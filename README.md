@@ -41,6 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
 </div>
 
-![Lil Sam Pic](IMG_1905)
+![Lil Sam Pic](IMG_1905.jpg)
 
 ###
