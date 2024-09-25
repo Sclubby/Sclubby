@@ -1,4 +1,4 @@
-<h1 align="center"> Hello!🤠 <br>My name is Sam and I've been programming for the last 5 years!  Check out some of my projects below!</h1>
+<h1 align="center">🤠 Howdy🤠 <br>My name is Sam and I've been programming for the last 5 years! <br> Check out some of my projects below!</h1>
 
 ###
 
