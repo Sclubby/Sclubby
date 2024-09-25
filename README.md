@@ -1,4 +1,4 @@
-<h1 align="center"> Hello!🤠 <br>My name is Sam and I'm a Student in Computer Science at <br> The University of Illinois at Chicago</h1>
+<h1 align="center"> Hello!🤠 <br>My name is Sam and I've been programming for the last 5 years!  Check out some of my projects below!</h1>
 
 ###
 
